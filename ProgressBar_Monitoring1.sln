@@ -1,0 +1,26 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProgressBar_Monitoring1", "ProgressBar_Monitoring1\ProgressBar_Monitoring1.vcxproj", "{3C1587CD-8FC5-48FC-9098-B91963D30F2C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sea Fight", "Sea Fight\Sea Fight.vcxproj", "{8054B767-B319-4405-8FA0-B91257676F17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C1587CD-8FC5-48FC-9098-B91963D30F2C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3C1587CD-8FC5-48FC-9098-B91963D30F2C}.Debug|Win32.Build.0 = Debug|Win32
+		{3C1587CD-8FC5-48FC-9098-B91963D30F2C}.Release|Win32.ActiveCfg = Release|Win32
+		{3C1587CD-8FC5-48FC-9098-B91963D30F2C}.Release|Win32.Build.0 = Release|Win32
+		{8054B767-B319-4405-8FA0-B91257676F17}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8054B767-B319-4405-8FA0-B91257676F17}.Debug|Win32.Build.0 = Debug|Win32
+		{8054B767-B319-4405-8FA0-B91257676F17}.Release|Win32.ActiveCfg = Release|Win32
+		{8054B767-B319-4405-8FA0-B91257676F17}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
